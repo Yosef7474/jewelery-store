@@ -1,2 +1,2 @@
 # jewelery-store
-here is my simple jewelery store homepage
+This is my simple jewelery store homepage
